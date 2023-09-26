@@ -101,7 +101,9 @@ class _NinjaCardState extends State<NinjaCard> {
       ),
     );
   }
-}
+}//
+
+//task finished
 
 
 
